@@ -6,5 +6,5 @@ jupyter
 ipykernel
 matplotlib
 certifi
-
+scikit-learn
 # -e .
