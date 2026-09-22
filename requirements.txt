@@ -7,4 +7,6 @@ ipykernel
 matplotlib
 certifi
 scikit-learn
+dill
+
 # -e .
